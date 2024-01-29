@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\bin\Debug\net6.0\Ejercicio01.Fechas.Programacion.exe
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\bin\Debug\net6.0\Ejercicio01.Fechas.Programacion.deps.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\bin\Debug\net6.0\Ejercicio01.Fechas.Programacion.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\bin\Debug\net6.0\Ejercicio01.Fechas.Programacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\bin\Debug\net6.0\Ejercicio01.Fechas.Programacion.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\obj\Debug\net6.0\Ejercicio01.Fechas.Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\obj\Debug\net6.0\Ejercicio01.Fechas.Programacion.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\obj\Debug\net6.0\Ejercicio01.Fechas.Programacion.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\obj\Debug\net6.0\Ejercicio01.Fechas.Programacion.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\obj\Debug\net6.0\Ejercicio01.Fechas.Programacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\obj\Debug\net6.0\refint\Ejercicio01.Fechas.Programacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\obj\Debug\net6.0\Ejercicio01.Fechas.Programacion.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\obj\Debug\net6.0\Ejercicio01.Fechas.Programacion.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio01.Fechas.Programacion\Ejercicio01.Fechas.Programacion\obj\Debug\net6.0\ref\Ejercicio01.Fechas.Programacion.dll
